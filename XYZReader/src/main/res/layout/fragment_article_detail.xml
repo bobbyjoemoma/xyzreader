@@ -110,6 +110,7 @@
         android:src="@drawable/ic_share"
         android:contentDescription="@string/action_share"
         app:elevation="@dimen/fab_elevation"
+        app:borderWidth="0dp"
         app:fabSize="normal" />
 
 </android.support.design.widget.CoordinatorLayout>
